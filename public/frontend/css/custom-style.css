@@ -1,0 +1,8 @@
+/* your custom style goes here */
+.login-btn {
+	box-sizing: border-box;
+	background-color: transparent;
+	border: 2px solid #c57a0d;
+	border-radius: 0.6em;
+	padding: 0.5em 0.5em;
+}
